@@ -34,6 +34,4 @@ If there are additional Braze accounts to integrate:
 4. Enter a separate Braze instance and API key for this new account.
 5. Select **Connect**.
 
-Email DataGrail at support@datagrail.io with any issues or questions regarding your integration.
-
-*This integration is maintained by DataGrail.*
+*This integration is maintained by DataGrail. Email support@datagrail.io with any issues or questions regarding your integration.*
